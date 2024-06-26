@@ -5,7 +5,7 @@ using System;
 public partial class new_script : Node
 {
 	private string test;
-	public string Test { get => test; set => test = value; }
+	public string Test { get =>  test; set => test = value; }
 
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()

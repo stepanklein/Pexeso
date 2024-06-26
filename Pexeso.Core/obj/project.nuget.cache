@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6IQR+T2Af+bnTbboVdqS3+xQIiVduH+Pu4OpBvGwm+rfsnz0+YRI1R2fj9uw4rdhwsJI8XM1LfokZV05KC7ONg==",
+  "dgSpecHash": "tedseNV27zXKZjnzy+wfw24AsKxpP/cNGSq8CZMdpw2R0J6qWAmVCD7lX3wVBBmaVihq9aeDhj4DMlNKH1o8MQ==",
   "success": true,
-  "projectFilePath": "E:\\hry\\Pexeso.Core\\Pexeso.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\GODOT\\Pexeso\\Pexeso.Core\\Pexeso.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\já\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\já\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\já\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
