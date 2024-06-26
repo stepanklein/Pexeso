@@ -1,25 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GODOT\\Pexeso\\Pexeso.Core\\Pexeso.Core.csproj": {}
+    "E:\\HRY\\Pexeso.Core\\Pexeso.Core.csproj": {}
   },
   "projects": {
-    "C:\\GODOT\\Pexeso\\Pexeso.Core\\Pexeso.Core.csproj": {
+    "E:\\HRY\\Pexeso.Core\\Pexeso.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GODOT\\Pexeso\\Pexeso.Core\\Pexeso.Core.csproj",
+        "projectUniqueName": "E:\\HRY\\Pexeso.Core\\Pexeso.Core.csproj",
         "projectName": "Pexeso.Core",
-        "projectPath": "C:\\GODOT\\Pexeso\\Pexeso.Core\\Pexeso.Core.csproj",
-        "packagesPath": "C:\\Users\\já\\.nuget\\packages\\",
-        "outputPath": "C:\\GODOT\\Pexeso\\Pexeso.Core\\obj\\",
+        "projectPath": "E:\\HRY\\Pexeso.Core\\Pexeso.Core.csproj",
+        "packagesPath": "C:\\Users\\stepan\\.nuget\\packages\\",
+        "outputPath": "E:\\HRY\\Pexeso.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\stepan\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\já\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\stepan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\stepan\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +41,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,26 +62,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

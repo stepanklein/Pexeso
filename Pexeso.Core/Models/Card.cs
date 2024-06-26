@@ -8,7 +8,5 @@ namespace Pexeso.Core.Models;
 
 public class Card
 {
-    public string Name { get; set; }
-
-
+    public string Name { get; set; } = string.Empty;
 }

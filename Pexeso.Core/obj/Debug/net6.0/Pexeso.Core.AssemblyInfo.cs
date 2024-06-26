@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pexeso.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fe96bd7d63e540e50d69ed25de029fd494ba5f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+878be8cfebb4a9f1bd974890f12a87a6b728e46f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pexeso.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pexeso.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

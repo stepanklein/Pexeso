@@ -1,0 +1,13 @@
+E:\hry\Pexeso.Core\bin\Debug\net6.0\Pexeso.Core.deps.json
+E:\HRY\Pexeso.Core\bin\Debug\net6.0\Pexeso.Core.dll
+E:\HRY\Pexeso.Core\bin\Debug\net6.0\Pexeso.Core.pdb
+E:\HRY\Pexeso.Core\obj\Debug\net6.0\Pexeso.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\HRY\Pexeso.Core\obj\Debug\net6.0\Pexeso.Core.AssemblyInfoInputs.cache
+E:\HRY\Pexeso.Core\obj\Debug\net6.0\Pexeso.Core.AssemblyInfo.cs
+E:\HRY\Pexeso.Core\obj\Debug\net6.0\Pexeso.Core.csproj.CoreCompileInputs.cache
+E:\HRY\Pexeso.Core\obj\Debug\net6.0\Pexeso.Core.sourcelink.json
+E:\HRY\Pexeso.Core\obj\Debug\net6.0\Pexeso.Core.dll
+E:\HRY\Pexeso.Core\obj\Debug\net6.0\refint\Pexeso.Core.dll
+E:\HRY\Pexeso.Core\obj\Debug\net6.0\Pexeso.Core.pdb
+E:\hry\Pexeso.Core\obj\Debug\net6.0\ref\Pexeso.Core.dll
+E:\HRY\Pexeso.Core\bin\Debug\net6.0\Resources\cards.json
